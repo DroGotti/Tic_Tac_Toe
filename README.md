@@ -1,1 +1,1 @@
-# Tic_Tac_Toe
+# A simple Python script showcasing a Tic Tac Toe game 
